@@ -1,0 +1,4 @@
+past(V3) : Genesis V11 V12 V13 V14 V4 V8 
+future(V3) : V1 V2 
+anticone(V3) : V10 V5 V6 V7 V9 
+tips(G) : V1 V5 

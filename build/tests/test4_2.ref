@@ -1,0 +1,4 @@
+past(I) : Genesis B C D F 
+future(I) : 
+anticone(I) : E G H J K 
+tips(G) : I J K 

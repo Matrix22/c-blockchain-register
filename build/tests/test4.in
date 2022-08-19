@@ -1,0 +1,25 @@
+23
+Genesis A B C D E F G H I J K L M N O P Q R S T U V
+Genesis :
+A : Genesis
+B : A Genesis
+C : A Genesis
+D : B
+E : B
+F : B C
+G : C
+H : D
+I : D
+J : D E
+K : E
+L : E
+M : E F
+N : F
+O : F G
+P : G
+Q : I
+R : I
+S : I J K
+T : L
+U : T N
+V : N G

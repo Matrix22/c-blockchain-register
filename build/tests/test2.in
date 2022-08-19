@@ -1,0 +1,13 @@
+11
+Genesis B C D E F G H I J K
+Genesis :
+B : Genesis
+C : Genesis
+D : Genesis
+E : Genesis
+F : B C
+G : C D
+H : E
+I : F D
+J : B G E
+K : H D

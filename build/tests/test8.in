@@ -1,0 +1,9 @@
+7
+Genesis Nod1 Nod2 Nod3 Nod4 Nod7 Nod6
+Genesis :
+Nod1 : Nod2
+Nod2 : Nod4
+Nod4 : Nod3
+Nod3 : Genesis Nod6
+Nod6 : Nod7
+Nod7 : Nod1 Genesis

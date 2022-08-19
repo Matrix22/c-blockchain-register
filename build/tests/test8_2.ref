@@ -1,0 +1,4 @@
+past(L) : Genesis A B E 
+future(L) : T U 
+anticone(L) : C D F G H I J K M N O P Q R S V 
+tips(G) : H M O P Q R S U V 
